@@ -2,7 +2,7 @@
 
 void main() { 
 
-int work[10], avail[101, alloc[10][10], need[10][10], max[10][10]; 
+int work[10], avail[10], alloc[10][10], need[10][10], max[10][10]; 
 
 int n, m, i, j, k, count, fcount = 0, pr[10]; 
 
