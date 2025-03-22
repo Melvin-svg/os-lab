@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){the
+void main(){
 
 int work[10], avail[10], alloc[10][10], need[10][10], max[10][10]; 
 
