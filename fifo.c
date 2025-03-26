@@ -2,7 +2,7 @@
 
 void main(){ 
 
-int i,j,n,a[50]l,frame[10],no,k,avail,count=0; 
+int i,j,n,a[50],frame[10],no,k,avail,count=0; 
 
 printf("enter the number of pages: "); 
 
